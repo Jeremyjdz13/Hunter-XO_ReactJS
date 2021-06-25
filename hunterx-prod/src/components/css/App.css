@@ -1,0 +1,42 @@
+/* Import-Normalize makes your css work on different browsers from react app  */
+@import-normalize;
+@import "./Header.css";
+@import "./ProfileBar.css";
+@import "./LoginSignUpUpdatProfile.css";
+@import "./Font.css";
+@import "./NavBar.css";
+@import "./GlobalStyles.css";
+@import './CharacterCard.css';
+@import './CharacterCardEdit.css';
+@import './Counters.css';
+@import './RankChart.css';
+@import './Journal.css';
+@import './GameBooks.css';
+@import './SuccessRoller.css';
+@import './GMDashboard.css';
+@import './GameCharts.css';
+
+*, *::before, *::after {
+    font-family: 'EBGaramond08-Regular', sans-serif;
+    box-sizing: border-box;   /* Understand box-sizing: border-box; */
+}
+
+html {
+    font-size: 20px;
+    background-color: #272727;
+}
+
+body {
+    background-image: url("../Images/spookyhand_metalgray.png");
+    max-width: 1200px;
+    height: 900px;
+    margin: 0 auto !important;
+    float: none !important;
+   }
+
+.app-container{
+    background-color: rgba(26, 26, 29, 0.5);
+    height: 900px;
+}
+
+

@@ -1,0 +1,208 @@
+.column-container{
+    padding: 5px;
+    margin: 5px;
+}
+
+.d100_result-container{
+    padding: 10px;
+}
+
+/* D10 Initiative */
+
+.initiative_container{
+    color:rgba(39, 39, 39, 1);
+    background:rgba(116, 116, 116, 1);
+    padding: 10px;
+    border-radius: 25px;
+}
+.d100-container{
+    margin-top: 30px;
+    height: 100px;
+}
+
+.d10-container{
+    padding: 5px;
+    margin: 5px;
+}
+
+.d10-numbers {
+    color: rgba(255, 101, 47, 1) !important;
+    background: #1A1A1D;
+    border-radius: 10px;
+    font-size: 1.5em !important;
+    text-align: center;
+    width: 100px;
+    margin: 5px;
+}
+
+.d10-roller {
+    color: rgba(255, 101, 47, 1);
+    padding: 5px;
+    margin: 3px;
+    height: 50px;
+    width: 70px;
+    background: #1A1A1D;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+    font-size: 1.2rem;
+}
+
+.d10-roller:focus {
+    background-color:rgba(255, 101, 47, .5);
+    color: #1A1A1D !important;
+    outline:none;
+}
+
+.d10-grid{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+}
+.d10-grid_bonus{
+    display: grid;
+    grid-template-columns: 50% 20%;
+    column-gap: 40px;
+}
+.selected-rank_container{
+    background: #1A1A1D;
+    color: rgba(20, 167, 108, 1) ;
+    width: 150px;
+    height: 50px;
+    font-size: 1.4em;
+    font-weight: bold;
+    text-align: center;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+/* D100 Chart Roller */
+
+.d100_chart_roller-container{
+    color:rgba(39, 39, 39, 1);
+    background:rgba(116, 116, 116, 1);
+    padding: 10px;
+    border-radius: 25px;
+    margin-top: 10px;
+}
+.d100-grid{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+}
+.d100_modifiers-grid{
+    display: grid;
+    grid-template-columns: 35% 65%;
+    margin: 2px;
+}
+.d100_column-buttons{
+    padding: 5px;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+    font-size: 1.2em;
+    margin: 2px;
+    background: #1A1A1D;
+}
+.attribute-buttons {
+    
+    background: #1A1A1D;
+    color: rgba(255, 101, 47, 1);
+}
+
+.d100_column-buttons:focus {
+    background-color: rgba(255, 101, 47, .5);
+    color: #1A1A1D !important;
+    outline:none;
+}
+
+.super_powers-buttons {
+    
+    background: #1A1A1D;
+    color: rgba(27, 231, 245, .8) !important;
+}
+
+.super_powers-buttons:focus {
+    background-color: rgba(0, 157, 255, .5);
+    color: #1A1A1D !important;
+    outline:none;
+}
+
+.talisman-buttons {
+    background: #1A1A1D;
+    color:  rgba(242, 163, 44, 1)!important;
+}
+
+.talisman-buttons:focus{
+    background-color: rgba(255, 228, 0, .5);
+    color: #1A1A1D !important;
+    outline:none;
+}
+
+.character-name_title{
+    color:  rgba(242, 163, 44, 1)!important;
+}
+
+.talisman-container {
+    min-height: 235px;
+}
+
+.success-buttons-modifiers {
+    padding: 5px;
+    margin: 3px;
+    min-width: 50px;
+    background: #1A1A1D;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+    font-size: 1.1rem;
+    color: rgba(20, 167, 108, 1) ;
+
+}
+
+.success-buttons-modifiers:focus{
+    background: rgba(20, 167, 108, 1);
+    outline: none;
+    color: rgba(0,0,0,0.5);
+}
+
+
+.d100-roller {
+    background: #1A1A1D !important;
+    color: rgba(20, 167, 108, 1) !important;
+    outline:none;
+    border:none;
+    border-radius: 10px;
+    font-size: 1.2rem;
+    margin: 5px;
+    padding: 5px;
+}
+
+.d100-roller:focus{
+    background-color: none;
+    outline: rgba(20, 167, 108, .5);
+    color: none;
+    outline: none;
+}
+
+.red{
+    background-color: #1A1A1D;
+    color: #c30707;
+}
+
+.yellow{
+    background-color: #1A1A1D;
+    color: rgba(255, 228, 0, 1);
+}
+.green{
+    background-color: #1A1A1D;
+    color: rgba(20, 167, 108, 1);
+}
+.failed{
+    background-color: #4E4E50;
+    color: #1A1A1D;
+}
+.botched{
+    background-color: black;
+    color: red;
+}

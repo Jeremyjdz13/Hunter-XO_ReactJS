@@ -1,0 +1,107 @@
+.character-card-accordion_container {
+    background: none !important;
+    /* font-size: 1.1em; */
+    border-radius: 20px;
+    margin:10px;
+    padding: 0px;
+}
+.character-card-accordion{
+    color: rgba(116, 116, 116, 1)!important;
+}
+
+.character-card_header{
+    background: rgba(0, 0, 0, 0.7) !important;
+    font-size: 1.2em;
+}
+
+.black-background {
+    background: rgba(0,0,0,0.5) !important;
+}
+
+.character-card {
+    background: none !important;
+}
+
+.rank {
+    font-size: 1.2rem;
+    padding-left: 5px;
+}
+
+.character-card-title{
+    color:  rgba(242, 163, 44, 0.797)!important;
+}
+
+.character-card-nature{
+    color:  rgba(242, 163, 44, 0.797)!important;
+}
+
+.character-card-title_nature{
+    color:rgba(116, 116, 116, 1);
+    margin-left: 5px;
+    margin-right: 5px;
+    font-size: .8em;
+}
+
+.character-card-subtitle{
+    padding-left: 10px;
+    margin: auto;
+}
+
+.card-toggle-header{
+    color:rgba(116, 116, 116, 1);
+    background-color: rgba(0,0,0,0.7) !important;
+    max-height: 50px;
+    font-size: 1.1em;
+    padding: 10px !important;
+    text-align: center;
+}
+
+.description{
+    padding: 15px;
+    font-size: .9em;
+    background-color: rgba(0,0,0,1);
+    color:rgba(238, 215, 137, 0.7);
+    border-radius: 20px;
+    white-space: pre-wrap;
+    hyphens: auto;
+}
+
+.damage{
+    padding: 15px;
+    font-size: 1.2em;
+    background-color: rgba(0,0,0,1);
+    color:rgba(238, 215, 137, 0.7);
+    border-radius: 20px;
+    white-space: pre-wrap;
+    hyphens: auto;
+    margin-bottom: 10px;
+}
+
+.title-parent_container{
+    background-color: rgb(79, 59, 29);
+    padding: 10px;
+    border-radius: 25px;
+    margin-bottom: 10px;
+}
+.power_stunt-container{
+    height: 500px;
+    overflow-y: auto;
+}
+
+
+
+.list_name{
+    color:  rgba(242, 163, 44, 0.797);
+    padding: 15px;
+}
+
+.list_rank{
+    font-family: 'Branda', sans-serif !important;
+    color: rgba(20, 167, 108, 1) ;
+    font-size: 1.1em;
+}
+.grid-titles{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    column-gap: 30px;
+}

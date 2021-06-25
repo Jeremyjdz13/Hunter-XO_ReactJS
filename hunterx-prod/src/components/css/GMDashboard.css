@@ -1,0 +1,29 @@
+.gmDashboard-container{
+    color: rgba(20, 167, 108, 1);
+    display: flex;
+    flex-direction: column;
+}
+
+.gmDashboard_Body-container{
+    background-color: rgb(79, 59, 29);
+    margin-bottom: 5px;
+    border-radius: 20px;
+    padding: 10px;
+    border: 3px solid black;
+    display: flex;
+    flex-direction: column;
+}
+
+.gmDashboard_Data_Cards{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.gmDashboard-Data_Card{
+    background-color: #E8DDBE;
+    border: 2px solid black;
+    border-radius: 20px;
+    color: #2a2a2a;
+    margin: 10px;
+    padding: 15px;
+}

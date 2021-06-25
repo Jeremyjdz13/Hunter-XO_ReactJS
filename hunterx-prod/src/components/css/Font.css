@@ -1,0 +1,159 @@
+@font-face {
+    font-family: 'Branda';
+    src: url('../Fonts/Branda-yolq.ttf') format('TrueType');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: 'BloodLust';
+    src: url('../Fonts/blood-lust/BloodLust.ttf') format('TrueType');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: 'DoubleFeature';
+    src: url('../Fonts/DoubleFeature.ttf') format('TrueType');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: 'CurseOfTheZombie';
+    src: url('../Fonts/CurseoftheZombie.ttf') format('TrueType');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: 'BloodThirsty';
+    src: url('../Fonts/bloodthirsty/Bloodthirsty.ttf') format('TrueType');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: 'Vamp';
+    src: url('../Fonts/riky-vampdator-normal/RIKY2vamp.ttf') format('TrueType');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'You Murderer';
+    src: url('../Fonts/youmurdererbb_reg.ttf') format('TrueType');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AnotherDanger';
+    src: url('../Fonts/another_danger/AnotherDanger.otf') format('OpenType');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AnotherDangerSlanted';
+    src: url('../Fonts/another_danger/AnotherDangerSlanted.otf') format('OpenType');
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+
+@font-face{
+    font-family: 'Amaranth-Regular';
+    src: url('../Fonts/amaranth/Amaranth-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: 'Amaranth-Bold';
+    src: url('../Fonts/amaranth/Amaranth-Bold.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: 'Amaranth-BoldItalic';
+    src: url('../Fonts/amaranth/Amaranth-BoldItalic.otf') format('opentype');
+    font-weight: bold;
+    font-style: italic;
+}
+@font-face{
+    font-family: 'Amaranth-Italic';
+    src: url('../Fonts/amaranth/Amaranth-Italic.otf') format('opentype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+/* EBGaramond Fonts */
+
+@font-face {
+    font-family: 'EBGaramond08-Regular';
+    src: url('../Fonts/eb-garamond/EBGaramond08-Regular.otf') format('openType');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'EBGaramond08-Italic';
+    src: url('../Fonts/eb-garamond/EBGaramond08-Italic.otf') format('openType');
+    font-weight: normal;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'EBGaramondSC08-Regular';
+    src: url('../Fonts/eb-garamond/EBGaramondSC08-Regular.otf') format('openType');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'EBGaramondSC12-Regular';
+    src: url('../Fonts/eb-garamond/EBGaramondSC12-Regular.otf') format('openType');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'EBGaramond12-AllSC';
+    src: url('../Fonts/eb-garamond/EBGaramond12-AllSC.otf') format('openType');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'EBGaramond12-Italic';
+    src: url('../Fonts/eb-garamond/EBGaramond12-Italic.otf') format('openType');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'EBGaramond12-Regular';
+    src: url('../Fonts/eb-garamond/EBGaramond12-Regular.otf') format('openType');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'EBGaramond-Initials';
+    src: url('../Fonts/eb-garamond/EBGaramond-Initials.otf') format('openType');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'EBGaramond-InitialsF1';
+    src: url('../Fonts/eb-garamond/EBGaramond-InitialsF1.otf') format('openType');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'EBGaramond-InitialsF2';
+    src: url('../Fonts/eb-garamond/EBGaramond-InitialsF2.otf') format('openType');
+    font-weight: normal;
+    font-style: normal;
+}

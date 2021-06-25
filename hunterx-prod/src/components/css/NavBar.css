@@ -1,0 +1,28 @@
+.nav-bar {
+    display: flex;
+    justify-content: space-between;
+    /* padding: 5px; */
+    margin: 10px;
+    font-size: 1.4em;
+}
+.link{
+    color: rgb(6,69,173);
+    margin-right: 10px;
+    margin-left: 5px;
+    
+}
+.character-link{
+    color:  rgba(242, 163, 44, 1) !important;
+}
+
+.journal-link{
+    color: rgba(255, 101, 47, .8) !important;
+}
+
+.gmDashboard-link{
+    color: rgba(20, 167, 108, .8) !important;
+}
+
+.game_rules-link{
+    color: #C3073f !important;
+}

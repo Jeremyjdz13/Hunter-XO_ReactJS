@@ -1,0 +1,53 @@
+/* Header Styles */
+
+.header-container{
+    position: static;
+    padding:0px;
+    height: 150px;
+    display:flex;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.header-title-container{
+    display: flex;
+    margin: auto;
+    box-sizing:content-box;
+}
+.header-title{
+    font-family: 'AnotherDanger', sans-serif !important;
+    font-size: 4rem;
+    margin-top: 10px;
+    padding: 10px;
+    color: #c30707;
+    text-shadow: 3px 3px #5b0516;
+    width: 400px;
+    text-align: center;
+    box-sizing:content-box;
+}
+
+.header-left{
+    position: relative;
+    width: 148px;
+    height: 148px;
+    background-image: url("../Images/superwoman.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-sizing:content-box;
+}
+ .header-right{
+    position: relative;
+    width: 148px;
+    height: 148px;
+    background-image: url("../Images/superman.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-sizing:content-box;
+}
+
+@media (max-width: 679px ) {
+    .header-title{
+       font-size: 2rem; 
+    }
+    
+}
+

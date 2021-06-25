@@ -1,0 +1,28 @@
+/* Dashboard Bar */
+
+.profilebar {
+    background: rgba(0,0,0,0.7);
+    color: #4e4e50;
+    height: 75px;
+    padding: 10px;
+}
+
+.updateProfile-btn {
+    padding-top: 13px;
+}
+
+.profilebar-links {
+    display: flex;
+    flex-direction: column;
+}
+.profile-name{
+    color: #c30707;;
+}
+
+.profile-link{
+    color: #c30707;
+}
+
+.profile-link:hover{
+    color: #8a0707;
+}

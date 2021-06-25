@@ -1,0 +1,21 @@
+.journal-title{
+    color: rgba(255, 101, 47, .8);
+}
+
+.journal_background-container {
+    background-color: #E8DDBE;
+    color: #2a2a2a;
+}
+.journal-body {
+    white-space: pre-wrap;
+    hyphens: auto;
+}
+
+.edit_journal_background-container{
+    background-color: rgb(79, 59, 29);
+}
+
+.edit_input_titles {
+    color: rgba(20, 167, 108, 1) ;
+    font-size: 1.4em;
+}
