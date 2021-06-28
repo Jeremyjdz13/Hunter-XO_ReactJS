@@ -59,7 +59,7 @@ export function AuthProvider({ children }) {
         
         if(!user){
             setLoading(false)
-            return;
+            return
         } 
 
         setCurrentUser(user) 
